@@ -5,8 +5,10 @@ A graph was generated to visualize the relationship between the number of genera
 - The AI is able to self correct itself after each generation and slowly gets better at walking/ moving
 - ALL of it done without any human interference or adjusting
 - Achieved results after only **100 generations**
+
+
 ``[First Iteration]``
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666 = 250x250 )
+![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666=250x250 )
 
 ``[Increased Segment Length]``
 - It realised that increasing the length will give it leverage
