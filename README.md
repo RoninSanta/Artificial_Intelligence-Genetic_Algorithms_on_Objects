@@ -8,6 +8,7 @@ A graph was generated to visualize the relationship between the number of genera
 
 
 ``[First Iteration]``
+
 <img src="https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666" width="250" height="250">
 
 ``[Increased Segment Length]``
