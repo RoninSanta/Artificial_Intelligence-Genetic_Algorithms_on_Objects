@@ -9,11 +9,10 @@ A graph was generated to visualize the relationship between the number of genera
 [First Iteration]
 ![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666)
 
-
 [Increased Segment Length]
 - It realised that increasing the length will give it leverage
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/ea3cd3c9-a812-4e8e-96d8-3743a158184e)
 (APPLE Shaped)
+![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/7b0238fb-cc48-42d7-aad8-6f590c28912d)
 
 [Final iteration]
 - Final result, __Added Roundness__ , __Added Length__, __Breaking Physics Engine to move faster__
