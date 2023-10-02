@@ -1,6 +1,7 @@
 # AI-Genetic_Algorithms_Python
 ### Testing effects of genetic algorithm to create an object that can walk without user interference 
 [A Python script I created an AI algorithm that can evolve and improve its capabilities by itself using ``Genetic Algorithms``]
+
 A graph was generated to visualize the relationship between the number of generations and the mean fitness of the population(How well each generation performed)
 - The AI is able to self correct itself after each generation and slowly gets better at walking/ moving
 - ALL of it done without any human interference or adjusting
