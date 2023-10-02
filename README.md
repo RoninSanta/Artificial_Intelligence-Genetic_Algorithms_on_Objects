@@ -8,7 +8,7 @@ A graph was generated to visualize the relationship between the number of genera
 
 
 ``[First Iteration]``
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666=250x250 )
+<img src="https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666" width="100" height="100">
 
 ``[Increased Segment Length]``
 - It realised that increasing the length will give it leverage
