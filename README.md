@@ -6,14 +6,14 @@ A graph was generated to visualize the relationship between the number of genera
 - ALL of it done without any human interference or adjusting
 - Achieved results after only **100 generations**
 
-[First Iteration]
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666)
+``[First Iteration]``
+![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666=250x250 )
 
 [Increased Segment Length]
 - It realised that increasing the length will give it leverage
 (APPLE Shaped)
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/7b0238fb-cc48-42d7-aad8-6f590c28912d)
+![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/7b0238fb-cc48-42d7-aad8-6f590c28912d=250x250)
 
 [Final iteration]
 - Final result, __Added Roundness__ , __Added Length__, __Breaking Physics Engine to move faster__
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/2bc4232f-d666-4c90-a9b7-bf70f67a0d6c)
+![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/2bc4232f-d666-4c90-a9b7-bf70f67a0d6c=250x250)
