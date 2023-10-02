@@ -8,7 +8,7 @@ A graph was generated to visualize the relationship between the number of genera
 
 
 ``[First Iteration]``
-<img src="https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666" width="100" height="100">
+<img src="https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/90629e33-65e0-4299-836a-59664e0f6666" width="250" height="250">
 
 ``[Increased Segment Length]``
 - It realised that increasing the length will give it leverage
@@ -17,4 +17,4 @@ A graph was generated to visualize the relationship between the number of genera
 
 ``[Final iteration]``
 - Final result, __Added Roundness__ , __Added Length__, __Breaking Physics Engine to move faster__
-![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/2bc4232f-d666-4c90-a9b7-bf70f67a0d6c=250x250)
+<img src="https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/2bc4232f-d666-4c90-a9b7-bf70f67a0d6c" width="250" height="250">
