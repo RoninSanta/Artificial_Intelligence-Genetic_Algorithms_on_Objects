@@ -1,4 +1,4 @@
-# AI-Genetic_Algorithms_Python
+# Artificial Intelligence with Genetic Algorithms(Python Script)
 ### Testing effects of genetic algorithm to create an object that can walk without user interference 
 [A Python script I created an AI algorithm that can evolve and improve its capabilities by itself using ``Genetic Algorithms``]
 
@@ -15,6 +15,7 @@ A graph was generated to visualize the relationship between the number of genera
 ``[Increased Segment Length]``
 - It realised that increasing the length will give it leverage
 (APPLE Shaped)
+
 ![image](https://github.com/RoninSanta/Artificial_Intelligence-Genetic_Algorithms_on_Objects/assets/109457795/7b0238fb-cc48-42d7-aad8-6f590c28912d=250x250)
 
 ``[Final iteration]``
