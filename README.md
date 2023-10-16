@@ -1,4 +1,4 @@
-# Artificial Intelligence with Genetic Algorithms(Python Script)
+# Artificial Intelligence with Genetic Algorithms (Python Script)
 ### Testing effects of genetic algorithm to create an object that can walk without user interference 
 [A Python script I created an AI algorithm that can evolve and improve its capabilities by itself using ``Genetic Algorithms``]
 
